@@ -16,6 +16,12 @@
 
 /* Smaller than standard 992 */
 @media only screen and (max-width: 991px) {
+	.grid-container{
+		display: grid;
+		grid-template-columns: 70% 70%;
+		padding: 21px 0px;
+		width: 75%;
+	}
 	.col-md-8{
 		display:none ;
 	}
