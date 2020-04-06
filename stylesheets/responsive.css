@@ -22,8 +22,26 @@
 		padding: 21px 0px;
 		width: 75%;
 	}
-	.col-md-8{
+	.img-adv{
+		width: 89%;
+		margin-left: 0px;
+	}
+	.blog-shortcode.blog-grid .hentry .entry-cover{
+		float: left;
+		width: 112%;
+		padding-right: 15px;
+		
+
+	}
+	.submenu .row .container .col-md-8{
 		display:none ;
+	}
+	.flat-single-image-autoheight-style2{
+		background-image: url(../images/img-single/bg6.jpg) !important;
+		background-position: center !important;
+		background-repeat: no-repeat !important;
+		background-size: cover !important;
+		height: 200px;
 	}
 	.btn-menu {
 		display: block;
